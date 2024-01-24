@@ -167,10 +167,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XBCTEZWS
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for XRay\Design Rule Check - XRay PCB.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
